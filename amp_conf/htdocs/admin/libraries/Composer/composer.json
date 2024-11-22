@@ -42,7 +42,7 @@
 		"composer/ca-bundle": "~1.3.5",
 		"hhxsv5/php-sse": "~2.0.2",
 		"sepia/po-parser": "~6.0.1",
-		"simplepie/simplepie": "~1.8.0",
+		"simplepie/simplepie": "~1.8.1",
 		"symfony/var-dumper": "~6.2.8",
 		"splitbrain/php-archive": "~1.3.1",
 		"slim/slim": "~4.11.0",
